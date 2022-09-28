@@ -9,4 +9,4 @@ elif human_turn =='paper' and computer_turn == 'rock':
 elif human_turn =='scissors' and computer_turn == 'paper':
     print('human wins!')
 else:
-    print('computer wins!')
+    
